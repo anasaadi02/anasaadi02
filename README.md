@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there! I’m SAADI ANAS, a passionate Software Engineer. My journey in tech has been fueled by a deep love for problem-solving and creating impactful solutions using cutting-edge technologies. I have hands-on experience in Full Stack Development, Data Science and Artificial Intelligence.<br><br>During my internships, I’ve had the opportunity to work on diverse projects, ranging from developing AI-driven knowledge management systems and customs query chatbots to web application development using microservices architecture. My recent focus has been on generative AI, RAG (Retrieve and Generate) systems, and vector databases, all while ensuring optimal performance and user-centric design.<br><br>Feel free to connect with me on GitHub or reach out for collaborations or just to chat about tech!
+Hi there! I’m SAADI ANAS, a Software Engineer and ENSIAS (Class of 2025) graduate.
+I’m passionate about problem-solving and building impactful, scalable solutions using modern software and AI technologies.
+
+I have hands-on experience in full-stack development and AI-powered systems, working across web, backend, and intelligent data pipelines. Through my professional experiences, I’ve contributed to projects ranging from AI-driven knowledge management platforms and enterprise chatbots to microservices-based web applications.
+
+Feel free to connect with me on GitHub or reach out for collaborations
 
 
 ## 🌐 Socials:
